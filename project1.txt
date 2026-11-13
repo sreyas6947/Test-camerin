@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Internal CSS</title>
+    <style>
+        h1{
+            background-color: #00ff00;
+            text-align: center;
+            font-family:  Verdana;
+        }
+        p{
+            color: #000ff0;
+            font-family: italic;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Hi Goodmorning.....</h1>
+        <p>Have a nice day</p>
+    
+</html>
